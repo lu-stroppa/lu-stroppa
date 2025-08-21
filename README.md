@@ -41,7 +41,7 @@ Aplicação web que exibe a **temperatura atual e informações do clima** de qu
 
 ---
 
-### ⏰ [Relógio Digital](https://lu-stroppa.github.io/password/clock)    
+### ⏰ [Relógio Digital](https://lu-stroppa.github.io/clock)    
 Aplicação web que exibe a **hora atual em formato digital** em tempo real.
 - Tecnologias: **HTML, CSS e JavaScript**
 - Atualiza a hora, minutos e segundos automaticamente.  
