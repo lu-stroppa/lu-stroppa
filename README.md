@@ -18,14 +18,14 @@
 
 ## 📌 Projetos Destacados
 
-### [Landing Page](https://lu-stroppa.github.io/justroppa/)  
+### 💻 [Landing Page](https://lu-stroppa.github.io/justroppa/)  
 **Página responsiva** feita para a profissional de massoterapia Juliana Stroppa. 
 - Tecnologias: **HTML, CSS e JavaScript**  
 - Responsivo para desktop e mobile  
 
 ---
 
-### [Password Generator](https://lu-stroppa.github.io/password/)  
+### 🔒 [Password Generator](https://lu-stroppa.github.io/password/)  
 Aplicação web que gera **senhas aleatórias seguras** de acordo com as preferências do usuário.
 - Tecnologias: **HTML, CSS e JavaScript**
 - Permite escolher o **tamanho da senha** e incluir **letras maiúsculas, minúsculas, números e símbolos**.  
@@ -52,7 +52,3 @@ Aplicação web que exibe a **hora atual em formato digital** em tempo real.
 ## 🎯 Objetivo
 
 Conseguir um **estágio como desenvolvedor front-end** para adquirir **experiência prática de trabalho**, evoluir minhas habilidades em **JavaScript, frameworks modernos e boas práticas de código**, e continuar construindo projetos reais que mostrem minha evolução.
-
----
-- GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)  
-- LinkedIn: [https://www.linkedin.com/in/seunome](https://www.linkedin.com/in/seunome) *(opcional)*
