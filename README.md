@@ -52,3 +52,12 @@ Aplicação web que exibe a **hora atual em formato digital** em tempo real.
 ## 🎯 Objetivo
 
 Conseguir um **estágio como desenvolvedor front-end** para adquirir **experiência prática de trabalho**, evoluir minhas habilidades em **JavaScript, frameworks modernos e boas práticas de código**, e continuar construindo projetos reais que mostrem minha evolução.
+
+---
+
+## 💻 Contato
+- [LinkedIn](https://www.linkedin.com/in/lucas-stroppa1210/)  
+- [GitHub](https://github.com/lu-stroppa)  
+- Email: stroppa.lucas@gmail.com
+
+---
