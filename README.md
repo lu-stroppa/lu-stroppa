@@ -1,8 +1,9 @@
-# Olá, me chamo Lucas Stroppa!
+# Olá, me chamo Lucas Stroppa. :)
 
-🎓 Estudante de TI na **UNIVESP**  
+🎓 Sou estudante de TI na **UNIVESP**  
 💻 Desenvolvedor Front-End Iniciante
-📚 Estudando e praticando tecnologias web para construir projetos reais  
+📚 Estudando e praticando tecnologias web para construir projetos reais
+📍 São Paulo, SP - Brasil
 
 ---
 
